@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 18 10:53:35 2020
 
-@author: MADCAT
+@author: E2060-Fatih(MADCAT)
 """
 
 a = age = input("Are you older than 75? (Y/N):").strip().upper()
